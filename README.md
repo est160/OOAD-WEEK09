@@ -4,10 +4,15 @@ Class Diagram
 #code
 
  @startuml
+ 
 CONGREET *.. ROCK
+
 CONGREET *.. WATER
+
 CONGREET *.. SAND
+
 CONGREET *.. SEMENT
+
 
 @enduml
 
