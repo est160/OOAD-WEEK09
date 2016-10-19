@@ -14,15 +14,36 @@ Class Diagram
                  PIC 2 COMPUTER
                  
                  
+                 
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuU9ozlSD20rn3L9GqDBLLV3rz_CCyGzIG1AsgG6BXmQxegdrTerqydSCSa4J3dBqHHVnHnVn06fpyGpsHXCEy0zt3GeE3GZmYKHt0D3w82ukXzIy5A2h0G00)                 
 
 
 
-                 PIC 3
-![]()
+                 PIC 3 POGDENG
+                 
+                 
+                 
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuNBo3mvMqCr9JIlHjLC8y7TtSVLpzm7o5A0oHPdf6KXIGI0kJAwq024HMW0JJSalpqE8km1vN0wfUIb0o_G0)
 
-                 PIC 4
-![]()
 
-                 PIC 5
-![]()
+
+
+                 PIC 4 PLANE
+                 
+                 
+                 
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuU8Ay77qSrNGqjLL2FVqSrU0yXLiQe0Yxex1C3v8WQ-ZiuUZdwSpYfe0Jn__41IHS0zNLnzaVKu-ZixUJluHoAhyGdsTN8FqG4Pw-hboEQJcfG2T0m00)
+
+
+
+
+                 PIC 5 PHONE
+                 
+                 
+                 
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuU8AyF3tSrNGqjLLy7QDL43YXlY7Ediu1xcw-Y491Zdw8lFyOJoR6Y0tsCNPCSW5ITu_68dZ613Wu-di6EBfxyV5vP2QbmAq7W00)
+
+
+
+
+
